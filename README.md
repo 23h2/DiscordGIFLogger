@@ -9,3 +9,5 @@ Run this code in your Discord console to get your token (It will copy your token
 ```js
 copy((webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken())
 ```
+
+You will need to change line 8 and 9 of index.js to your webhook and token!
