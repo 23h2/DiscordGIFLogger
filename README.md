@@ -1,7 +1,6 @@
 # Discord GIF Logger
 
-Made this because I was bored and wanted some good gifs to add to my favorites lol
-This project gets every message sent from the servers you are in, checks if its a gif then sends it to your webhook so you can decide if you want to favorite it or not.
+Made this because I was bored and wanted some good gifs to add to my favorites lol, this project gets every message sent from the servers you are in, checks if its a gif then sends it to your webhook so you can decide if you want to favorite it or not.
 
 You will need node.js to run this project.
 Required modules: discord.js-selfbot-v13, cheerio, @replit/node-fetch (install using NPM)
